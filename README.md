@@ -1,8 +1,7 @@
-#Flappy Bird AI (NEAT)
+# Flappy Bird AI (NEAT)
 
 An AI-powered version of the classic **Flappy Bird** game built with **Python**, **Pygame**, and **NEAT (NeuroEvolution of Augmenting Topologies)**.
 
-!(demo/rec1p.mp4)
 ---
 
 ## 📑 Table of Contents
